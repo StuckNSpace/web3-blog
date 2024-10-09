@@ -40,7 +40,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/StuckNSpace/React-Webpage-with-Web3-Blog-Posts.git
+    git clone https://github.com/StuckNSpace/web3-blog.git
     cd web3-blog
     ```
 
